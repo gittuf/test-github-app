@@ -2,4 +2,4 @@
 
 Hello, world!
 
-Adding a line
+Removing line.
