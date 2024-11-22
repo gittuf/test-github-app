@@ -2,4 +2,4 @@
 
 Hello, world!
 
-Let's give this a go. Adding a line here.
+Let's give this a go.
